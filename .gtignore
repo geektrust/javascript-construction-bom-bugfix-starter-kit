@@ -1,0 +1,11 @@
+.theia/
+.vscode/
+.gitignore
+.gtignore
+README.md
+LICENSE
+package.json
+yarn.lock
+package-lock.json
+run.sh
+run_unittests.sh
